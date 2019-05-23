@@ -7,6 +7,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Component\HttpFoundation\Response;
 
 class adminController extends Controller{
+    
     /**
      * @Route("/admin")
      */
